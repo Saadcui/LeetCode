@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saadcui/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saadcui/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saadcui/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saadcui/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Saadcui/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -87,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Saadcui/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Saadcui/LeetCode/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Saadcui/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
