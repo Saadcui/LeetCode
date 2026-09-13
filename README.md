@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saadcui/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Saadcui/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadcui/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Saadcui/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 ## Monotonic Stack
 |  |
 | ------- |
