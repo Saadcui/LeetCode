@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadcui/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Saadcui/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Saadcui/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Saadcui/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Saadcui/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Saadcui/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saadcui/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saadcui/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Saadcui/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Tree
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saadcui/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
