@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saadcui/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saadcui/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadcui/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Saadcui/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saadcui/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Saadcui/LeetCode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Saadcui/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Saadcui/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
