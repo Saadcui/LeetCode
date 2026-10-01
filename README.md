@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saadcui/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Saadcui/LeetCode/tree/master/0125-valid-palindrome) |
+| [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 ## Trie
 |  |
 | ------- |
@@ -269,9 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Saadcui/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Saadcui/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
