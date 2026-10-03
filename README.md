@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saadcui/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saadcui/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Saadcui/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saadcui/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Saadcui/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 ## Trie
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Saadcui/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadcui/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
@@ -283,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
