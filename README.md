@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Saadcui/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
