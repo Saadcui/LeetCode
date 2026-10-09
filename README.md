@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saadcui/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saadcui/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Saadcui/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Saadcui/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saadcui/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Saadcui/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
+| [0299-bulls-and-cows](https://github.com/Saadcui/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Saadcui/LeetCode/tree/master/0389-find-the-difference) |
 | [0649-dota2-senate](https://github.com/Saadcui/LeetCode/tree/master/0649-dota2-senate) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Saadcui/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting Sort
 |  |
