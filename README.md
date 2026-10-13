@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Saadcui/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saadcui/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Saadcui/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saadcui/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Saadcui/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadcui/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saadcui/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saadcui/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saadcui/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Saadcui/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadcui/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saadcui/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Saadcui/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Saadcui/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadcui/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saadcui/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Saadcui/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Saadcui/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Saadcui/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Saadcui/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Saadcui/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Saadcui/LeetCode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Saadcui/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saadcui/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saadcui/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Saadcui/LeetCode/tree/master/0389-find-the-difference) |
