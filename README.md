@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Saadcui/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Saadcui/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saadcui/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Saadcui/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saadcui/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Saadcui/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saadcui/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting Sort
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Saadcui/LeetCode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Saadcui/LeetCode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Saadcui/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Saadcui/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
 | ------- |
