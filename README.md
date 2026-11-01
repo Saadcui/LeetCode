@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Saadcui/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Saadcui/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Saadcui/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Saadcui/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Saadcui/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Saadcui/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Saadcui/LeetCode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Saadcui/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Saadcui/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -353,4 +357,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Saadcui/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/Saadcui/LeetCode/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
